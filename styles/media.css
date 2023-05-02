@@ -1,0 +1,297 @@
+@media (min-width: 700px) {
+    .header {
+        padding: 24px 40px 50px;
+    }
+
+    .info-inner {
+        display: flex;
+        gap: 1.5rem;
+        padding-top: 130px;
+        margin-bottom: 90px;
+    }
+
+    .info-right {
+        height: 404px;
+    }
+
+    .right-inner {
+        margin-top: 25px;
+    }
+
+    .right-line {
+        position: absolute;
+        display: inline-block;
+        width: 1500px;
+        height: 480px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        top: -125px;
+        left: -33px;
+    }
+
+    img {
+        max-width: 85%;
+    }
+
+    .right-girl {
+        width: 330px;
+        height: 330px;
+        background-size: 265px;
+        background-position: 23px 10px;
+    }
+
+    .cards-left {
+        left: -42px;
+        bottom: -56px;
+    }
+
+    .cards-right {
+        right: 8px;
+        top: -39px;
+    }
+
+    .courses {
+        padding: 0 0 32px;
+    }
+
+    .courses__card {
+        width: 329px;
+        height: 259px;
+        margin-bottom: 56px;
+        padding: 56px 22px 32px;
+    }
+
+    .first-card {
+        width: 339px;
+        height: 259px;
+    }
+
+    .card__inner {
+        min-height: 171px;
+    }
+
+    .footer-col {
+        width: 50%;
+        margin-bottom: 10px;
+        padding: 0 40px;
+    }
+
+}
+
+@media (min-width: 920px) {
+
+    .header {
+        height: 120px;
+    }
+
+    .header-btn {
+        width: 167px;
+        height: 56px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .header-logo {
+        width: 156px;
+        height: 46px;
+    }
+
+    .info {
+        padding: 0 40px;
+    }
+
+    .info-inner {
+        gap: 6rem;
+        padding-top: 170px;
+        margin-bottom: 110px;
+    }
+
+    .info-left {
+        padding-bottom: 20px;
+        max-width: 375px;
+    }
+
+    .left-inner {
+        max-width: 375px;
+    }
+
+    .left-text p {
+        margin-bottom: 40px;
+    }
+
+    .left-btn {
+        border-radius: 31.5px;
+        width: 167px;
+        height: 63px;
+    }
+
+    .info-right {
+        height: 482px;
+    }
+
+    .right-inner {
+        margin-top: 5px;
+        width: 411px;
+        height: 350px;
+    }
+
+    .right-line {
+        height: 526px;
+        top: -72px;
+        left: -73px;
+    }
+
+    img {
+        max-width: 60%;
+    }
+
+    .right-girl {
+        width: 659px;
+        height: 461px;
+        background-size: 379px;
+        background-position: 31px 1px;
+    }
+
+    .courses {
+        padding: 0 40px 80px;
+    }
+
+    .input-group {
+        height: 280px;
+    }
+
+    .form-container {
+        padding-bottom: 160px;
+    }
+
+
+    .form-box {
+        padding: 50px 60px 80px;
+    }
+
+    .form-box h2::after {
+        bottom: 591px;
+    }
+
+    .footer-col {
+        width: 25%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 1392px) {
+
+    .header {
+        padding: 24px 0 55px;
+    }
+
+    .header-inner {
+        height: 56px;
+        padding: 0 135px;
+    }
+
+    .header-logo {
+        width: 180px;
+        height: 180px;
+    }
+
+    .info {
+        padding: 0 165px;
+    }
+
+    .info-left {
+        max-width: 655px;
+    }
+
+    .info-inner {
+        gap: 4rem;
+        padding-top: 200px;
+        margin-bottom: 110px;
+    }
+
+    .left-inner {
+        max-width: 685px;
+    }
+
+    .left-title h1 {
+        font-size: 56px;
+        line-height: 71px;
+        margin-bottom: 29px;
+    }
+
+    .left-text {
+        max-width: 390px;
+        margin-bottom: 40px;
+    }
+
+    br {
+        display: none;
+    }
+
+    img {
+        max-width: 70%;
+    }
+
+    .right-girl {
+        background-size: 405px;
+        background-position: 80px 29px;
+        top: -57px;
+    }
+
+    .cards-quant {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .cards-title {
+        font-size: 16px;
+    }
+
+    .cards-left {
+        width: 199px;
+        bottom: 98px;
+        left: -42px;
+        bottom: -56px;
+    }
+
+    .cards-right {
+        width: 155px;
+        right: -15px;
+        top: -60px;
+    }
+
+    .courses {
+        padding: 0 270px 100px;
+    }
+
+    .courses__card {
+        width: 350px;
+        height: 322px;
+        margin-bottom: 80px;
+        padding: 64px 32px;
+    }
+
+    .first-card-title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .card__inner {
+        min-height: 218px;
+    }
+
+    .card-title {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    h2 {
+        font-size: 42;
+        list-style: 53;
+        margin-bottom: 60px;
+    }
+
+    .footer-col {
+        width: 25%;
+    }
+}
